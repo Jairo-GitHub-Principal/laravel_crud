@@ -3,6 +3,7 @@
 
 
 
+![erro na rota](https://github.com/Jairo-GitHub-Principal/laravel_crud/assets/106206316/e187ddaf-9be1-4134-a159-0eec177c07b5)
 
 
 
